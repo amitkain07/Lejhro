@@ -9,7 +9,7 @@ const Footer = () => {
 
         <div className='h-2 w-full bg-blue-600'></div>
     <div className='px-30 py-5'>
-        <div className='flex flex-col md:flex-row justify-between'>
+        <div className='flex flex-col gap-4 md:gap-1 md:flex-row justify-between'>
             <div>
                 <h2 className='font-semibold text-xl'>Company</h2>
                 <ul>
