@@ -3,8 +3,8 @@ import logo from '../assets/blog.png'
 const Main = () => {
   return (
     <div className=" flex items-center justify-center py-20 bg-gray-100">
-      <div className="bg-white rounded-md flex flex-col gap-8  py-6 w-[65%] px-10 ">
-        <h1 className="text-start font-bold text-2xl ">
+      <div className="bg-white rounded-md flex flex-col gap-8  py-6 w-[80%] md:w-[65%] px-10 ">
+        <h1 className="text-start font-semibold text-xl md:font-bold md:text-2xl ">
           Statistical Approaches for Balancing Ethical Privacy & <br /> Data-Driven
           Innovation
         </h1>
